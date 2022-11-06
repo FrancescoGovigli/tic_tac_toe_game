@@ -3,5 +3,6 @@ Simple Tic Tac Toe game with a basic GUI
 
 ![title](Images/TicTacToe.png)
 
-In order to run the game, you just need a python environment installed and the tkinter package for the GUI. \
-Execute the TicTacToe.py file
+How to start the game : 
+* A python environment and tkinter package for the GUI are required. \
+* Execute the TicTacToe.py file
